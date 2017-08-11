@@ -1,7 +1,7 @@
 Package: rcv
 Type: Package
 Title: Ranked Choice Voting
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: c(
     person("Jay", "Lee", email = "jaylee@reed.edu", role = c("aut")),
     person("Matthew", "Yancheff", email = "yanchefm@reed.edu", role = c("aut", "cre")),
@@ -16,14 +16,14 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Depends: R (>= 3.3.3)
-Imports: forcats, dplyr, tibble, tidyr, readr, stringr
+Imports: dplyr, tibble, tidyr, readr, stringr
 RoxygenNote: 6.0.1
 Suggests: alluvial, networkD3, knitr, rmarkdown
 NeedsCompilation: no
-Packaged: 2017-06-13 22:08:09 UTC; Yancheff
+Packaged: 2017-08-11 08:00:35 UTC; Yancheff
 Author: Jay Lee [aut],
   Matthew Yancheff [aut, cre],
   Reed College [cph]
 Maintainer: Matthew Yancheff <yanchefm@reed.edu>
 Repository: CRAN
-Date/Publication: 2017-06-14 13:15:59 UTC
+Date/Publication: 2017-08-11 08:11:33 UTC
